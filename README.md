@@ -1,2 +1,15 @@
 # Fluid_Encryption_Algorithm
 Encryption Algorithm
+![user_logo](https://github.com/user-attachments/assets/069e7656-2fbb-4806-9f54-386d0bc44ad5)
+![structure Anylsis](https://github.com/user-attachments/assets/ce209fa3-9e65-4ee9-b1f0-5b213fb677ec)
+![saltanylsis](https://github.com/user-attachments/assets/c346aa07-bdfd-46fc-9d60-e53c504cb7e6)
+![fluid_paper drawio](https://github.com/user-attachments/assets/befcb012-64ca-4685-b489-4c5c74c99f92)
+![fluid_flow_diagram1](https://github.com/user-attachments/assets/12338f18-b22e-435c-ba66-356288b5fe72)
+![fluid_flow_diagram](https://github.com/user-attachments/assets/2f7fa737-9261-4596-8b4a-86876840cab0)
+![finalflowEncryption drawio](https://github.com/user-attachments/assets/18023db8-61e5-46ec-9bc0-f787a622e3b4)
+![ExtreactData drawio (1)](https://github.com/user-attachments/assets/605ba2ff-84f4-4888-919e-b34fb072518b)
+![Enryptionpresent (4)](https://github.com/user-attachments/assets/108c317c-c7f2-4192-8703-d7e14485c940)
+![EncyptionMethod drawio](https://github.com/user-attachments/assets/693ab084-6584-40ec-922f-2369ef01e813)
+![DecryptionModel](https://github.com/user-attachments/assets/c828608e-0043-47d8-ad3c-450a253ffadb)
+![DecryptionModel (3)](https://github.com/user-attachments/assets/0fef17ab-d011-4ded-92d8-f2674146cc11)
+![DecryptionModel (1)](https://github.com/user-attachments/assets/e37633bd-9ae3-494a-8400-d21aef0bdf5d)
